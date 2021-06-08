@@ -1,0 +1,7 @@
+.filaSuperior {
+  height:33%;
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

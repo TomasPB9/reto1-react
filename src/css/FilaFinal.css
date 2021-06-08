@@ -1,0 +1,7 @@
+.filaFinal {
+  height: 33%;
+  /* border: 1px solid orange; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
